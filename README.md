@@ -18,7 +18,6 @@ Como executar
 
 ```bash
 dotnet run
-📂 Estrutura
 Copiar código
 /Dia13
   Program.cs
